@@ -1,1 +1,3 @@
-# Applied_statistics_for_the_design_and_analysis_of_experiments
+# Applied statistics for the design and analysis of experiments
+
+Notebooks where I used R for the design and analysis of experiments.
